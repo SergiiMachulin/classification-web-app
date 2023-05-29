@@ -9,7 +9,7 @@ from keras.utils import load_img, img_to_array
 
 app = Flask("ClassificationWebApp")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-model = load_model(os.path.join(BASE_DIR, "model.hdf5"))
+model = load_model(os.path.join(BASE_DIR, "modeling/model.hdf5"))
 
 ALLOWED_EXT = {"jpg", "jpeg", "png", "jfif"}
 

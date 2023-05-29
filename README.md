@@ -57,10 +57,10 @@ This is a web application built with Flask and Keras that allows users to classi
 
 ## Demo
 
-![front.png](front.png)
+![front.png](static/demo/front.png)
 
-![deer.png](deer.png)
+![deer.png](static/demo/deer.png)
 
-![cat.png](cat.png)
+![cat.png](static/demo/cat.png)
 
-![frog.png](frog.png)
+![frog.png](static/demo/frog.png)
